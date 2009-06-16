@@ -1,1 +1,2 @@
 Linux is an open source operating system.
+But really the kernel is Linux.
